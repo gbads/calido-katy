@@ -1,0 +1,6 @@
+2023-05-31T20:54:50+00:00 CRITICAL syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" in /Applications/MAMP/htdocs/calido/wp-content/themes/storefront-child/page-about.php on line 60
+
+2023-05-31T20:54:56+00:00 CRITICAL syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" in /Applications/MAMP/htdocs/calido/wp-content/themes/storefront-child/page-about.php on line 60
+
+2023-05-31T21:49:48+00:00 CRITICAL syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" in /Applications/MAMP/htdocs/calido/wp-content/themes/storefront-child/page-about.php on line 59
+
