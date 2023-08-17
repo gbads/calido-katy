@@ -2,7 +2,7 @@
 
 namespace Psr\Http\Client;
 
-use Psr\Http\Message\RequestInterface;
+use Automattic\WooCommerce\GoogleListingsAndAds\Vendor\Psr\Http\Message\RequestInterface;
 
 /**
  * Exception for when a request failed.
